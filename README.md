@@ -1,4 +1,3 @@
-# healthdatamanifesto
 The Health Data Manifesto
 =========================
 
