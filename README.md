@@ -15,7 +15,7 @@ We are uncovering better ways to making digital health data more clinically usef
 
 **Utility For Patients And Clinicians Today** over building the perfect system without feedback
 
-**Patient Originated Data** over entirely clinically generated
+**Patient-Centered Data** over clinician-centered data
 
 We value the items more on the left than on the right.
 
